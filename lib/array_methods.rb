@@ -7,12 +7,10 @@ end
 favorite_video_games.reverse
 end
 
-def using_first(array)
-
+favorite_video_games.first
 end
 
-def using_last(array)
-
+favorite_video_games.last
 end
 
 def using_size(array)
