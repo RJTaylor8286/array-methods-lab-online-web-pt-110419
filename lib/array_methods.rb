@@ -4,8 +4,7 @@ end
 favorite_video_games.sort
 end
 
-def using_reverse(array)
-
+favorite_video_games.reverse
 end
 
 def using_first(array)
