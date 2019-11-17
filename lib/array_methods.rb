@@ -1,4 +1,4 @@
-favorite_video_games.include?()
+favorite_video_games.include?("WWE2K")
 end
 
 def using_sort(array)
