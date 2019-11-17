@@ -13,6 +13,5 @@ end
 favorite_video_games.last
 end
 
-def using_size(array)
-
+favorite_video_games.size
 end
