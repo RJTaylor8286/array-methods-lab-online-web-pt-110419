@@ -1,8 +1,7 @@
 favorite_video_games.include?("WWE2K")
 end
 
-def using_sort(array)
-
+favorite_video_games.sort
 end
 
 def using_reverse(array)
